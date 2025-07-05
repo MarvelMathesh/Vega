@@ -58,8 +58,10 @@ Special thanks to the faculty and staff at VIT Chennai for organizing this works
 
 ---
 
-## 📜 License  
-This repository is intended for **educational and non-commercial use** as part of the VIT Chennai workshop curriculum.
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).  
+© 2025 Mathesh V, Gautham R, Lokesh R
 
 ---
 
