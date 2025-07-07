@@ -33,7 +33,7 @@ This repository contains the source codes, pin connection details, and output sn
 | Name       | Roll Number | GitHub Profile       |
 |------------|-------------|-----------------------|
 | Mathesh V  | 23BEC1152   | [*Mathesh V*](https://github.com/MarvelMathesh) |
-| Lokesh R   | 23BEC1009   | [*lok341*](https://github.com/lok341) |
+| Lokesh R   | 23BEC1009   | [*Lokesh R*](https://github.com/LokeshR-25) |
 | Gautham R  | 23BEC1069   | [*gautham-here*](https://github.com/gautham-here) |
 
 
